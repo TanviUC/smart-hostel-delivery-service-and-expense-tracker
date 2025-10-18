@@ -16,7 +16,7 @@ It integrates **Flutter**, **Laravel**, **MySQL**, and **Razorpay API** to autom
 
 * Raise **gate-to-hostel delivery requests**
 * **Track deliveries** in real time
-* **Log daily expenses** (voice or manual entry)
+* **Log daily expenses** 
 * Make **secure online payments** via Razorpay
 * Receive **email notifications** on delivery status
 
