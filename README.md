@@ -50,14 +50,12 @@ A **hybrid web & mobile application** that streamlines **hostel delivery coordin
 
 ## 🧩 Tech Stack
 
-| Layer                 | Technology     | Description                         |
-| --------------------- | -------------- | ----------------------------------- |
-| **Frontend (Mobile)** | Flutter (Dart) | Cross-platform student & agent app  |
-| **Backend**           | Laravel (PHP)  | RESTful APIs & business logic       |
-| **Database**          | MySQL          | Relational data storage             |
-| **Payment Gateway**   | Razorpay API   | UPI, cards, net banking integration |
-| **Notifications**     | Gmail SMTP     | Automated email alerts              |
-| **Version Control**   | Git & GitHub   | Repository management               |
+**Frontend (Mobile):** Flutter (Dart) – Cross-platform student & agent app
+**Backend:** Laravel (PHP) – RESTful APIs & business logic
+**Database:** MySQL – Relational data storage
+**Payment Gateway:** Razorpay API – UPI, cards, net banking integration
+**Notifications:** Gmail SMTP – Automated email alerts
+**Version Control:** Git & GitHub – Repository management
 
 ---
 
@@ -126,21 +124,23 @@ flutter run
 
 ## 📊 Results
 
-* ✅ 50% reduction in delivery delays
-* ✅ Real-time transparency in hostel logistics
-* ✅ Automated notifications for students & agents
+* ✅ Reduced delivery delays by 50%
+* ✅ Improved real-time transparency in hostel logistics
+* ✅ Automated notifications for students and agents
 * ✅ Centralized expense tracking and analytics
 
 ---
 
 ## 🌱 Future Enhancements
 
-* 📢 Push notifications & in-app alerts
-* 🧠 AI-based delivery optimization
-* 🎙️ Multilingual voice expense logging
-* 📈 Smart budget analytics
-* 🧩 Integration with Hostel Warden Systems
-* 🏅 Gamification & reward system
+* 📢 Push notifications & in-app alerts for students and agents
+* 🧠 AI-based delivery optimization for faster assignments
+* 🎙️ Multilingual voice-enabled expense logging
+* 📈 Smart budget analytics with visual graphs
+* 🧩 Integration with Hostel Warden Systems for better coordination
+* 🏅 Gamification and reward system for timely deliveries
+* 📊 Advanced reporting & dashboard enhancements
+* 🔒 Enhanced security features and role-based access control
 
 ---
 
