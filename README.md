@@ -1,12 +1,11 @@
 # 🏨 Smart Hostel Delivery Service & Expense Tracker
 
-A **hybrid web & mobile application** designed to simplify **hostel delivery coordination** and **daily expense tracking** for students.
-It integrates **Flutter**, **Laravel**, **MySQL**, and **Razorpay API** to automate campus deliveries, ensure secure payments, and provide transparent tracking between **students**, **delivery agents**, and **administrators**.
-
 [![Flutter](https://img.shields.io/badge/Flutter-3.13.0-blue)](https://flutter.dev/)
 [![Laravel](https://img.shields.io/badge/Laravel-10-red)](https://laravel.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)](https://www.mysql.com/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
+A **hybrid web & mobile application** that streamlines **hostel delivery coordination** and **daily expense tracking** for students. It integrates **Flutter**, **Laravel**, **MySQL**, and **Razorpay API** to automate campus deliveries, secure payments, and provide transparent tracking between **students**, **delivery agents**, and **administrators**.
 
 ---
 
@@ -85,7 +84,7 @@ php artisan migrate
 php artisan serve
 ```
 
-**Update `.env`:**
+**Update `.env` with your credentials:**
 
 ```env
 DB_DATABASE=smart_hostel
@@ -109,27 +108,12 @@ flutter pub get
 flutter run
 ```
 
----
-
-## 📱 Key Screens
-
-* **Onboarding & Login**
-* **New Delivery Request Form**
-* **UPI / Payment Integration**
-* **Delivery Dashboard**
-* **Expense Dashboard & Graphs**
-* **Admin Analytics Dashboard**
-
-*(See `/screenshots` folder for images)*
-
----
-
 ## 📊 Results
 
-✅ 50% reduction in delivery delays
-✅ Real-time transparency in hostel logistics
-✅ Automated notifications for students & agents
-✅ Centralized expense tracking and analytics
+* ✅ 50% reduction in delivery delays
+* ✅ Real-time transparency in hostel logistics
+* ✅ Automated notifications for students & agents
+* ✅ Centralized expense tracking and analytics
 
 ---
 
