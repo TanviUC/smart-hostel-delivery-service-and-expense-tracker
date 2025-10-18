@@ -9,13 +9,27 @@ A **hybrid web & mobile application** that streamlines **hostel delivery coordin
 
 ---
 
+## 📑 Table of Contents
+
+1. [Features](#-features)
+2. [Tech Stack](#-tech-stack)
+3. [System Architecture](#-system-architecture)
+4. [Installation Guide](#-installation-guide)
+5. [Results](#-results)
+6. [Future Enhancements](#-future-enhancements)
+7. [References](#-references)
+8. [Author](#-author)
+9. [License](#-license)
+
+---
+
 ## 🚀 Features
 
 ### 🧑‍🎓 Student Module
 
 * Raise **gate-to-hostel delivery requests**
 * **Track deliveries** in real time
-* **Log daily expenses** 
+* **Log daily expenses** (voice or manual entry)
 * Make **secure online payments** via Razorpay
 * Receive **email notifications** on delivery status
 
@@ -107,6 +121,8 @@ cd flutter_app
 flutter pub get
 flutter run
 ```
+
+---
 
 ## 📊 Results
 
